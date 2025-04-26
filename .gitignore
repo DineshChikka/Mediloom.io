@@ -33,3 +33,6 @@ tailwindcss4/node_modules/
 
 # EJS view cache
 *.ejs~
+
+# Embedded Repos or unwanted folders
+final_project_modified/
